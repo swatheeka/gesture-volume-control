@@ -1,4 +1,4 @@
-*Project Name: Hand-gesture Volume Control**
+#Project Name: Hand-gesture Volume Control
 
 **Description**
 
